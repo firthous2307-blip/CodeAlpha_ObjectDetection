@@ -17,6 +17,7 @@ This project detects and tracks objects in a video using YOLOv8 and OpenCV. The 
 * OpenCV
 * YOLOv8 (Ultralytics)
 
+
 ## Screenshots
 
 ### Object Detection Result 1
