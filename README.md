@@ -21,10 +21,10 @@ This project detects and tracks objects in a video using YOLOv8 and OpenCV. The 
 ## Screenshots
 
 ### Object Detection Result 1
-![Object Detection Result 1](ObjectDetection_1.png)
+(ObjectDetection_1.png)
 
 ### Object Detection Result 2
-![Object Detection Result 2](ObjectDetection_2.png)
+(ObjectDetection_2.png)
 
 ## How to Run
 
